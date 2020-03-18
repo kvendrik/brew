@@ -1,9 +1,9 @@
 class Mc < Formula
   desc "Memoizes the output of a given command."
   homepage "https://github.com/kvendrik/mc"
-  url "https://github.com/kvendrik/mc/archive/1.0.0-alpha.1.tar.gz"
-  sha256 "94f5340ef1e898085908b2e4a9f2dd0fcf855faace57a2637b32d58b5d4b6239"
-  version "1.0.0-alpha.1"
+  url "https://github.com/kvendrik/mc/archive/1.0.0-alpha.3.tar.gz"
+  sha256 "96a6a0c58c632b0bc0f888b52cb039aa40e3457dcb6b5b426a8d8765fbb6c08c"
+  version "1.0.0-alpha.3"
 
   bottle :unneeded
 

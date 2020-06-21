@@ -1,4 +1,4 @@
-class Mc < Formula
+class GitSquash < Formula
   desc "Squash all commits in your current branch into one"
   homepage "https://github.com/kvendrik/git-squash"
   url "https://github.com/kvendrik/git-squash/archive/1.0.0-alpha.tar.gz"
